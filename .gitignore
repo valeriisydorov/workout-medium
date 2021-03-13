@@ -1,0 +1,9 @@
+# phpstorm project files
+.idea
+
+# extensions project files
+/vendor/
+
+# log files
+Logs/
+
